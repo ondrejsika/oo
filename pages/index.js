@@ -1,2 +1,7 @@
 import React from "react";
-export default () => <h1>ochranaovci.cz</h1>;
+import styled from "styled-components";
+
+const H1 = styled.h1`
+  color: purple;
+`;
+export default () => <H1>ochranaovci.cz</H1>;
