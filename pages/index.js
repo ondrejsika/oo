@@ -2,19 +2,15 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Article from "../components/Article";
-import styled from "styled-components";
 import Box from "../components/Box";
 import BoxWrapper from "../components/BoxWrapper";
+import Header from "../components/Header";
 import { Row, Col } from "react-bootstrap";
-
-const H1 = styled.h1`
-  color: purple;
-`;
 
 export default () => (
   <>
     <Navbar />
-    <H1>ochranaovci.cz</H1>
+    <Header />
     <Section header="Jak si chránit svá stáda?">
       <Article>
         <p>
