@@ -1,8 +1,4 @@
 import React from "react";
-import { Row, Container } from "react-bootstrap";
+import { Row } from "react-bootstrap";
 
-export default (props) => (
-  <Container>
-    <Row>{props.children}</Row>
-  </Container>
-);
+export default (props) => <Row>{props.children}</Row>;
