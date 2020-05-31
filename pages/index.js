@@ -16,6 +16,24 @@ export default () => (
     </Section>
     <Section header="Příklady z praxe/Zkušenosti farmářů">
       <p>Foo bar foo...</p>
+    </Section>{" "}
+    <Section header="Statistiky">
+      <p>Foo bar foo...</p>
+    </Section>
+    <Section header="Podpora prevence">
+      <p>Foo bar foo...</p>
+    </Section>
+    <Section header="Co dělat při napadení?">
+      <p>Foo bar foo...</p>
+    </Section>
+    <Section header="O webu">
+      <p>Foo bar foo...</p>
+    </Section>
+    <Section header="Kontakt">
+      <p>Foo bar foo...</p>
+    </Section>
+    <Section header="End">
+      <p>Foo bar foo...</p>
     </Section>
   </>
 );
