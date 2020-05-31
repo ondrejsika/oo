@@ -26,26 +26,20 @@ export default () => (
       <BoxWrapper>
         <Box
           header="MOBILNÍ ELEKTRICKÝ OHRADNÍK"
-          img="https://via.placeholder.com/580x290.png"
+          img="/static/images/mobilni_elektricky_ohradnik.jpg"
         >
           <p>
             Elektrický ohradník je jedním z nejoblíbenějších a nejúčinnějších
             ochranných opatření proti velkým šelmám.
           </p>
         </Box>
-        <Box
-          header="PASTEVECKÝ PES"
-          img="https://via.placeholder.com/580x290.png"
-        >
+        <Box header="PASTEVECKÝ PES" img="/static/images/pastevecky_pes.jpg">
           <p>
             Pastevečtí psi jsou časem prověření strážci stád a v oblastech s
             výskytem vlků se stále využívají.
           </p>
         </Box>
-        <Box
-          header="PEVNÝ OHRADNÍK"
-          img="https://via.placeholder.com/580x290.png"
-        >
+        <Box header="PEVNÝ OHRADNÍK" img="/static/images/pevny_ohradnik.jpg">
           <p>
             Pevné ohrady se běžně používají k vymezení pastvin, kde jsou zvířata
             po většinu pastevní sezóny.
