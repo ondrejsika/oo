@@ -6,11 +6,15 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "static": "next build && next export"
+    "static": "next build && next export",
+    "prettier-check": "prettier --check ."
   },
   "dependencies": {
     "next": "^9.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
   }
 }
