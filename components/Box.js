@@ -5,6 +5,9 @@ import styled from "styled-components";
 const Border = styled.div`
   border: 1px solid #d3d3d3;
   border-radius: 3px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 `;
 const Wrapper = styled.div`
   padding: 1em;
