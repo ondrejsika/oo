@@ -149,7 +149,47 @@ export default () => (
     <Section header="Co dělat při napadení?">
       <p>Foo bar foo...</p>
     </Section>
-    <Section header="Co dělat při napadení?">
+    <Section header="Příklady z praxe/Zkušenosti farmářů">
+      <Article>
+        <p>
+          Představujeme chovatele hospodářských zvířat, kteří využívají
+          preventivních opatření, aby ochránili svá stáda před útoky vlků.
+        </p>
+      </Article>
+      <BoxWrapper>
+        <Box
+          header="FARMA ZVÍŘAT ABERTAMY"
+          img="/static/images/mobilni_elektricky_ohradnik.jpg"
+        >
+          <ul>
+            <li>3000 ovcí</li>
+            <li>Pasení na otevřených pastvinách</li>
+            <li> Pastevčští psi, bača, košáry ze síťových ohradníků</li>
+          </ul>
+        </Box>
+        <Box
+          header="PASTEVECKÝ PES V LUŽICKÝCH HORÁCH"
+          img="/static/images/pastevecky_pes.jpg"
+        >
+          <ul>
+            <li>70 ovcí</li>
+            <li>Pasení v pevných ohradách</li>
+            <li>Pastevčští psi, bača, košáry ze síťových ohradníků</li>
+          </ul>
+        </Box>
+        <Box
+          header="OCHRANA OVCÍ POD TROSKAMI"
+          img="/static/images/pevny_ohradnik.jpg"
+        >
+          <ul>
+            <li>120 ovcí</li>
+            <li>Pasení v mobilních lankovýcg ohradníkách</li>
+            <li>Pastevecký pes</li>
+          </ul>
+        </Box>
+      </BoxWrapper>
+    </Section>
+    <Section header="Statistiky">
       <p>Foo bar foo...</p>
     </Section>
     <Section header="Příklady z praxe / Zkušenosti farmářů">
@@ -160,7 +200,6 @@ export default () => (
         </p>
       </Article>
     </Section>
-
     <Section header="Podpora prevence">
       <Article header="Podpora prevence">
         <p>
