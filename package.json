@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "next",
     "static": "next build && next export",
-    "prettier-check": "prettier --check ."
+    "prettier-check": "prettier --check .",
+    "eslint-check": "eslint ."
   },
   "dependencies": {
     "next": "^9.4.4",
@@ -15,6 +16,8 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-plugin-react": "^7.20.0",
     "prettier": "^2.0.5"
   }
 }
