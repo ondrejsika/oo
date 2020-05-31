@@ -202,7 +202,7 @@ export default () => (
           lze dočasně využít elektrické výcvikové obojky.
         </p>
       </Article>
-      <Article header="Příklady dobré praxe"></Article>
+
       <Article header="Doporučení pro koupi a výchovu pasteveckých psů">
         <p>
           Téma správné výchovy pasteveckých psů je obsáhlé. Doporučujeme
@@ -469,25 +469,15 @@ export default () => (
       </BoxWrapper>
     </Section>
 
-    <Section header="Příklady z praxe / Zkušenosti farmářů">
-      <Article header="Příklady z praxe / Zkušenosti farmářů">
-        <p>
-          Představujeme chovatele hospodářských zvířat, kteří využívají
-          preventivních opatření, aby ochránili svá stáda před útoky vlků.
-        </p>
-      </Article>
-    </Section>
     <Section header="Podpora prevence">
-      <Article header="Podpora prevence">
-        <p>
-          V letošním roce poskytuje stát finanční podporu chovatelům na
-          preventivní opatření proti útokům velkých šelem prostřednictvím
-          Operačního programu životní prostředí (OPŽP). Bohužel získání této
-          podpory je nesrovnatelně administrativně náročnější než v případě
-          zemědělských dotací nebo Programu péče o krajinu, na které jsou
-          chovatele zvyklí.{" "}
-        </p>
-      </Article>
+      <p>
+        V letošním roce poskytuje stát finanční podporu chovatelům na
+        preventivní opatření proti útokům velkých šelem prostřednictvím
+        Operačního programu životní prostředí (OPŽP). Bohužel získání této
+        podpory je nesrovnatelně administrativně náročnější než v případě
+        zemědělských dotací nebo Programu péče o krajinu, na které jsou
+        chovatele zvyklí.
+      </p>
     </Section>
     <Section header="Co dělat při napadení?">
       <p>Foo bar foo...</p>
