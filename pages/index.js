@@ -5,6 +5,7 @@ import Article from "../components/Article";
 import styled from "styled-components";
 import Box from "../components/Box";
 import BoxWrapper from "../components/BoxWrapper";
+import { Row, Col, Container } from "react-bootstrap";
 
 const H1 = styled.h1`
   color: purple;
@@ -421,7 +422,45 @@ export default () => (
       <p>Foo bar foo...</p>
     </Section>
     <Section header="Kontakt">
-      <p>Foo bar foo...</p>
+      <Container>
+        <Row>
+          <Col>
+            <h3>Alena Koutková</h3>
+            <p>
+              Příprava a administrace projektů OPŽP pro lepší zabezpečení stád.
+            </p>
+            <p>
+              E-mail:{" "}
+              <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>
+              <br />
+              Tel.
+              <a href="tel:+420776361735">776 361 735</a>
+            </p>
+          </Col>
+          <Col>
+            <h3>Miroslav Kutal</h3>
+            <p>Konzultace k preventivním opatřením a výskytu šelem</p>
+            <p>
+              E-mail:{" "}
+              <a href="mailto:miroslav.kutal@hnutiduha.cz">
+                miroslav.kutal@hnutiduha.cz
+              </a>
+              <br />
+              Tel. <a href="tel:+420728832889">728 832 889</a>
+            </p>
+          </Col>
+          <Col>
+            <h3>Lenka Štíhlová</h3>
+            <p>
+              Chovatelka koz a krav na Broumovsku se zkušenostmi s útokem vlků a
+              realizací preventivních opatření
+            </p>
+            <p>
+              Tel.<a href="tel:+420776642866">776 642 866</a>
+            </p>
+          </Col>
+        </Row>
+      </Container>
     </Section>
     <Section header="End">
       <p>Foo bar foo...</p>
