@@ -3,5 +3,14 @@
   "version": "0.0.0",
   "author": "Ondrej Sika <ondrej@ondrejsika.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "static": "next build && next export"
+  },
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
