@@ -604,8 +604,6 @@ export default () => (
         </Col>
       </Row>
     </Section>
-    <Section header="End">
-      <p>Foo bar foo...</p>
-    </Section>
+    
   </>
 );
