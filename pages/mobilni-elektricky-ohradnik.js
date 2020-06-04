@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Article from "../components/Article";
+import Gallery from "../components/Gallery";
 
 export default () => (
   <>
@@ -104,6 +105,13 @@ export default () => (
           </li>
         </ul>
       </Article>
+      <Gallery
+        images={[
+          "/static/images/MO1.jpg",
+          "/static/images/MO2.jpg",
+          "/static/images/MO3.jpg"
+        ]}
+      />
     </Section>
   </>
 );
