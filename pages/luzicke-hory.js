@@ -94,10 +94,11 @@ export default () => (
         dobře osvědčil. Podali mi pomocnou ruku také při hledání dalších
         chovatelů kangalů, abych mohla nechat Mášu připustit ke krytí a odchovat
         tak i štěňata. Nedávno mi lidé z Hnutí DUHA zapůjčili i fotopast, kterou
-        jsme společně umístili na ohradník, kam zavírám ovce a noc. MIROSLAV
-        <br />
-        --KUTAL, KRISTÝNA FRIDRICHOVÁ
+        jsme společně umístili na ohradník, kam zavírám ovce a noc.
+
+
       </p>
+      <p><i>Miroslav Kutal, Kristýna Fridrichová</i></p>
       <Gallery
         images={[
           "/static/images/LH1.jpg",
