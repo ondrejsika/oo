@@ -68,6 +68,7 @@ export default () => (
         <Box
           header="FARMA ZVÍŘAT ABERTAMY"
           img="/static/images/mobilni_elektricky_ohradnik.jpg"
+          sizeMd={4}
         >
           <ul>
             <li>3000 ovcí</li>
@@ -79,6 +80,7 @@ export default () => (
         <Box
           header="PASTEVECKÝ PES V LUŽICKÝCH HORÁCH"
           img="/static/images/pastevecky_pes.jpg"
+          sizeMd={4}
         >
           <ul>
             <li>70 ovcí</li>
@@ -90,6 +92,7 @@ export default () => (
         <Box
           header="OCHRANA OVCÍ POD TROSKAMI"
           img="/static/images/pevny_ohradnik.jpg"
+          sizeMd={4}
         >
           <ul>
             <li>120 ovcí</li>
