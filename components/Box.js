@@ -20,7 +20,7 @@ const Header = styled.h3`
 `;
 
 export default (props) => (
-  <Col>
+  <Col md={props.sizeMd}>
     <Border>
       <img src={props.img} className="img-fluid" />
       <Wrapper>
