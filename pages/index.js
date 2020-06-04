@@ -25,6 +25,7 @@ export default () => (
         <Box
           header="MOBILNÍ ELEKTRICKÝ OHRADNÍK"
           img="/static/images/mobilni_elektricky_ohradnik.jpg"
+          sizeMd={4}
         >
           <p>
             Elektrický ohradník je jedním z nejoblíbenějších a nejúčinnějších
@@ -32,14 +33,22 @@ export default () => (
           </p>
           <Button href="/mobilni-elektricky-ohradnik">Vice</Button>
         </Box>
-        <Box header="PASTEVECKÝ PES" img="/static/images/pastevecky_pes.jpg">
+        <Box
+          header="PASTEVECKÝ PES"
+          img="/static/images/pastevecky_pes.jpg"
+          sizeMd={4}
+        >
           <p>
             Pastevečtí psi jsou časem prověření strážci stád a v oblastech s
             výskytem vlků se stále využívají.
           </p>
           <Button href="/pastevecky-pes">Vice</Button>
         </Box>
-        <Box header="PEVNÝ OHRADNÍK" img="/static/images/pevny_ohradnik.jpg">
+        <Box
+          header="PEVNÝ OHRADNÍK"
+          img="/static/images/pevny_ohradnik.jpg"
+          sizeMd={4}
+        >
           <p>
             Pevné ohrady se běžně používají k vymezení pastvin, kde jsou zvířata
             po většinu pastevní sezóny.
@@ -388,7 +397,7 @@ export default () => (
     </Section>
     <Section header="Kontakt">
       <Row>
-        <Col>
+        <Col md={4}>
           <h3>Alena Koutková</h3>
           <p>
             Příprava a administrace projektů OPŽP pro lepší zabezpečení stád.
@@ -400,7 +409,7 @@ export default () => (
             <a href="tel:+420776361735">776 361 735</a>
           </p>
         </Col>
-        <Col>
+        <Col md={4}>
           <h3>Miroslav Kutal</h3>
           <p>Konzultace k preventivním opatřením a výskytu šelem</p>
           <p>
@@ -412,7 +421,7 @@ export default () => (
             Tel. <a href="tel:+420728832889">728 832 889</a>
           </p>
         </Col>
-        <Col>
+        <Col md={4}>
           <h3>Lenka Štíhlová</h3>
           <p>
             Chovatelka koz a krav na Broumovsku se zkušenostmi s útokem vlků a
