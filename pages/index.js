@@ -65,6 +65,7 @@ export default () => (
             <li>Pasení na otevřených pastvinách</li>
             <li> Pastevčští psi, bača, košáry ze síťových ohradníků</li>
           </ul>
+          <Button href="/zacharda">Vice</Button>
         </Box>
         <Box
           header="PASTEVECKÝ PES V LUŽICKÝCH HORÁCH"
@@ -75,6 +76,7 @@ export default () => (
             <li>Pasení v pevných ohradách</li>
             <li>Pastevčští psi, bača, košáry ze síťových ohradníků</li>
           </ul>
+          <Button href="/luzicke-hory">Vice</Button>
         </Box>
         <Box
           header="OCHRANA OVCÍ POD TROSKAMI"
@@ -85,6 +87,7 @@ export default () => (
             <li>Pasení v mobilních lankových ohradníkách</li>
             <li>Pastevecký pes</li>
           </ul>
+          <Button href="/pod-troskami">Vice</Button>
         </Box>
       </BoxWrapper>
     </Section>
