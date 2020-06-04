@@ -13,7 +13,7 @@ export default () => (
   <>
     <Navbar />
     <Header />
-    <Section  header="Jak si chránit svá stáda?">
+    <Section header="Jak si chránit svá stáda?">
       <Article>
         <p>
           Neexistuje univerzální řešení, které bude vyhovovat všem farmářům, ale
@@ -155,6 +155,17 @@ export default () => (
           </li>
         </ul>
         <h4>Více informací o aktuálně vyhlášených výzvách</h4>
+        <Button href="https://www.opzp.cz/nabidka-dotaci/detail-vyzvy/?id=158">
+          139. výzva - otevřená do 2. 11. 2020 (v rámci podpory de minimis, max.
+          výše dotace 20.000 EUR)
+        </Button>
+        <Button href="https://www.opzp.cz/nabidka-dotaci/detail-vyzvy/?id=113">
+          110. výzva - otevřená do 4.1.2021 (notifikovaná výzva, bez horního
+          limitu podpory)
+        </Button>
+        <Button href="https://www.navratvlku.cz/prevence-moznost-financovani/">
+          Více informací od AOPK ČR také na webu Návrat vlků.
+        </Button>
         <p>
           Hnutí DUHA Olomouc má zkušenosti s přípravou a realizací
           individuálních i společných projektů OPŽP zaměřených na preventivní
