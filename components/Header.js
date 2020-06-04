@@ -1,6 +1,7 @@
 import React from "react";
 import { Container } from "react-bootstrap";
 import styled from "styled-components";
+import Link from "next/link";
 
 const H1 = styled.h1`
   color: white;
@@ -28,15 +29,19 @@ export default (props) => (
     <BackgroundImg>
       {/* <Background> */}
       <Container>
-        <H1>
-          <TextBackground>
-            &nbsp;POMOCNÍK&nbsp;
-            <br />
-            &nbsp;pro chovatele&nbsp;
-            <br />
-            &nbsp;hospodářských zvířat&nbsp;
-          </TextBackground>
-        </H1>
+        <Link href="/">
+          <a style={{ textDecoration: "none" }}>
+            <H1>
+              <TextBackground>
+                &nbsp;POMOCNÍK&nbsp;
+                <br />
+                &nbsp;pro chovatele&nbsp;
+                <br />
+                &nbsp;hospodářských zvířat&nbsp;
+              </TextBackground>
+            </H1>
+          </a>
+        </Link>
         {props.children}
       </Container>
       {/* </Background> */}
