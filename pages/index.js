@@ -62,8 +62,8 @@ export default () => (
         >
           <ul>
             <li>3000 ovcí</li>
-            <li>Pasení na otevřených pastvinách</li>
-            <li> Pastevčští psi, bača, košáry ze síťových ohradníků</li>
+            <li>Pastva na otevřených pastvinách</li>
+            <li> Pastevčtí psi, bača, košáry ze síťových ohradníků</li>
           </ul>
           <Button href="/zacharda">Vice</Button>
         </Box>
@@ -73,7 +73,7 @@ export default () => (
         >
           <ul>
             <li>70 ovcí</li>
-            <li>Pasení v pevných ohradách</li>
+            <li>Pastva v pevných ohradách</li>
             <li>Pastevčští psi, bača, košáry ze síťových ohradníků</li>
           </ul>
           <Button href="/luzicke-hory">Vice</Button>
@@ -84,7 +84,7 @@ export default () => (
         >
           <ul>
             <li>120 ovcí</li>
-            <li>Pasení v mobilních lankových ohradníkách</li>
+            <li>Pastva v mobilních lankových ohradníkách</li>
             <li>Pastevecký pes</li>
           </ul>
           <Button href="/pod-troskami">Vice</Button>
@@ -166,7 +166,7 @@ export default () => (
         <ul>
           <li>
             Škody na ovcích, kozách, skotu, králících a hrabavé a vodní drůbeži,
-            na prasatech, koních, oslech a jejich kříženci a na kožešinových
+            na prasatech, koních, oslech a jejich křížencích a na kožešinových
             zvířatech
           </li>
           <li>
