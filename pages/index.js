@@ -13,7 +13,7 @@ export default () => (
   <>
     <Navbar />
     <Header />
-    <Section header="Jak si chránit svá stáda?">
+    <Section id="jak-si-chranit-sva-stáda" header="Jak si chránit svá stáda?">
       <Article>
         <p>
           Neexistuje univerzální řešení, které bude vyhovovat všem farmářům, ale
@@ -58,7 +58,10 @@ export default () => (
         </Box>
       </BoxWrapper>
     </Section>
-    <Section header="Příklady z praxe / Zkušenosti farmářů">
+    <Section
+      id="priklady-z-praxe"
+      header="Příklady z praxe / Zkušenosti farmářů"
+    >
       <Article>
         <p>
           Představujeme chovatele hospodářských zvířat, kteří využívají
@@ -105,7 +108,7 @@ export default () => (
       </BoxWrapper>
     </Section>
 
-    <Section header="Podpora prevence">
+    <Section id="co-delat-pri-napadeni" header="Podpora prevence">
       <Article header="">
         <p>
           V letošním roce poskytuje stát finanční podporu chovatelům na
@@ -175,7 +178,7 @@ export default () => (
         </p>
       </Article>
     </Section>
-    <Section header="Co dělat při napadení?">
+    <Section id="podpora-prevence" header="Co dělat při napadení?">
       <Article header="">
         <p>
           V případě, že jsou hospodářská zvířata napadena vlkem, rysem nebo
@@ -375,7 +378,7 @@ export default () => (
         </p>
       </Article>
     </Section>
-    <Section header="O projektu">
+    <Section id="o-projektu" header="O projektu">
       <Article header="">
         <p>
           Web ochranaovci.cz je určen pro všechny chovatele a další zájemce o
@@ -410,7 +413,7 @@ export default () => (
         </p>
       </Article>
     </Section>
-    <Section header="Kontakt">
+    <Section id="kontakt" header="Kontakt">
       <Row>
         <Col md={4}>
           <h3>Alena Koutková</h3>
