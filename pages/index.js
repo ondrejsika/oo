@@ -12,7 +12,7 @@ export default () => (
   <>
     <Navbar />
     <Header />
-    <Section header="Jak si chránit svá stáda?">
+    <Section  header="Jak si chránit svá stáda?">
       <Article>
         <p>
           Neexistuje univerzální řešení, které bude vyhovovat všem farmářům, ale
@@ -57,7 +57,7 @@ export default () => (
         </Box>
       </BoxWrapper>
     </Section>
-    <Section header="Příklady z praxe/Zkušenosti farmářů">
+    <Section header="Příklady z praxe / Zkušenosti farmářů">
       <Article>
         <p>
           Představujeme chovatele hospodářských zvířat, kteří využívají
