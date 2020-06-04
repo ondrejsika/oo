@@ -3,7 +3,7 @@ import { Container } from "react-bootstrap";
 
 export default (props) => (
   <Container id={props.id} className="mt-5 mb-5">
-    <h2>{props.header}</h2>
+    <h2 className="text-center">{props.header}</h2>
     {props.children}
   </Container>
 );
