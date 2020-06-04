@@ -149,7 +149,204 @@ export default () => (
       </Article>
     </Section>
     <Section header="Co dělat při napadení?">
-      <p>Foo bar foo...</p>
+      <Article header="">
+        <p>
+          V případě, že jsou hospodářská zvířata napadena vlkem, rysem nebo
+          medvědem, kteří patří mezi zvláště chráněné druhy, mají chovatelé
+          nárok na náhradu za škody od státu. Zákon č. 115/2000 Sb., o
+          poskytování náhrad škod způsobených vybranými zvláště chráněnými druhy
+          živočichů určuje jmenovitý seznam těchto živočichů a stanoví podmínky,
+          kdy stát proplatí škody těmito chráněnými živočichy. Způsob výpočtu
+          výše škody je uveden ve vyhlášce č. 360/2000 Sb.
+        </p>
+        <h4>Jaké škody stát může hradit?</h4>
+        <ul>
+          <li>
+            Škody na ovcích, kozách, skotu, králících a hrabavé a vodní drůbeži,
+            na prasatech, koních, oslech a jejich kříženci a na kožešinových
+            zvířatech
+          </li>
+          <li>
+            Škody na psech sloužících k hlídání vybraných domestikovaných zvířat
+          </li>
+          <li>Škody způsobené medvědem na včelstvech a včelařském zařízení.</li>
+        </ul>
+        <p>
+          Zákon pamatuje i na případnou škodu na zdraví a životě člověka nebo na
+          škodu na uzavřených objektech (například ohradách nebo plotech) a
+          movitých věcech v nich umístěných.
+        </p>
+        <p>
+          Podmínkou však je, že v době vzniku škody byla hospodářská zvířata v
+          uzavřeném objektu nebo elektrickém ohradníku anebo pod přímým dohledem
+          fyzické osoby nebo pasteveckého psa.
+        </p>
+      </Article>
+      <Article header="Jak postupovat v případě napadení stáda?">
+        <h4>Kontaktujte orgán ochrany přírody a krajiny</h4>
+        <p>
+          Je v zájmu poškozeného ohlásit událost co nejdříve, nejpozději však do
+          48 hodin, místně příslušnému orgánu ochrany přírody, aby došlo co
+          nejrychleji k ohledání místa a aby mohly být zdokumentovány případné
+          stopy a pobytové znaky šelem. Místně příslušným orgánem je Správa
+          chráněné krajinné oblasti nebo národního parku a mimo velkoplošná
+          chráněná území odbor životního prostředí obce s rozšířenou působností.
+          Ve dnech pracovního klidu je možné využít{" "}
+          <a href="https://www.navratvlku.cz/kontakt-pohotovostni-linky/">
+            pohotovostní linky Agentury ochrany přírody a krajiny ČR
+          </a>
+          .
+        </p>
+        <h4>Zajistěte pobytové znaky šelmy</h4>
+        <ul>
+          <li>
+            Než dorazí pracovník příslušného orgánu ochrany přírody, je vhodné
+            zajistit pobytové znaky šelmy.
+          </li>
+          <li>
+            Kadáver nechte v místě, kde jste ho nalezli. Proveďte
+            fotodokumentaci a překryjte ho plachtou, abyste zabránili dalším
+            predátorům v konzumaci a chránili tělo také před deštěm a sluncem
+            (později je možné odebrat stěr na genetickou analýzu pro potvrzení
+            původce zabití zvířete).
+          </li>
+          <li>
+            Zkuste obejít ohradu a najít místo, kudy šelma do ohrady vnikla.
+          </li>
+          <li>
+            Můžete kontaktovat také místního koordinátora monitoringu šelem z
+            Hnutí DUHA, který vám pomůže s nalezením dalších pobytových znaků.
+            Pro více informací volejte Tel.{" "}
+            <a href="tel:+420728832889">728 832 889</a> (M. Kutal).
+          </li>
+        </ul>
+        <h4>Kontaktujte veterináře</h4>
+        <p>
+          K podání žádosti o náhradu škody je třeba také potvrzení veterinárního
+          lékaře o příčině úhynu zvířete. Není nezbytně nutné, aby veterinární
+          lékař provedl ohledání na místě. Příčinu úhynu může potvrdit z
+          fotodokumentace a/nebo protokolu o šetření, který provedl orgán
+          ochrany přírody.{" "}
+        </p>
+        <h4>Podejte žádost o náhradu škody</h4>
+        <p>
+          Žádost o náhradu škody se podává ke <b>krajskému úřadu</b>. Tu je
+          třeba podat do <b>10 dnů od dne, kdy se poškozený o škodě dozvěděl</b>
+          , nejpozději však do 6 měsíců od vzniku škody. V žádosti o náhradu je
+          třeba uvést:
+        </p>
+        <ul>
+          <li>
+            základní identifikační údaje žadatele včetně rodného čísla nebo IČO
+            a adresy trvalého bydliště nebo sídla (podle toho, zda je žadatel
+            právnická nebo fyzická osoba)
+          </li>
+          <li>popis příčin vzniku škody a uvedení rozsahu škody</li>
+          <li>
+            označení vybraného živočicha, který škodu podle poznatků žadatele
+            (poškozeného) způsobil
+          </li>
+          <li>
+            popis opatření žadatele (poškozeného), která učinil k zabránění
+            vzniku škody
+          </li>
+          <li>
+            způsob poskytnutí náhrady škody (např. bankovním převodem na účet
+            žadatele)
+          </li>
+        </ul>
+        <p>K žádosti dále přiložte:</p>
+        <li>potvrzení veterinárního lékaře o příčině úhynu zvířete</li>
+        <li>
+          doklad, že jste vlastníkem zvířat (výpis z evidence a/nebo čestné
+          prohlášení)
+        </li>
+        <h4>Výše náhrady</h4>
+        <p>
+          Stanovení výše náhrady určuje vyhláška 360/2000 Sb., a jedná se o cenu
+          obvyklou, tedy cenu, které by bylo dosaženo při prodeji takového
+          zvířete, včelstva nebo zařízení. Za účelem sjednocení postupu a
+          usnadnění stanovení výše náhrady škod byl Svazem chovatelů ovcí a koz
+          sestaven ceník jednotlivých kategorií zvířat. Použití tohoto ceníku
+          doporučilo v rámci společného jednání Ministerstvo životního prostředí
+          a Ministerstvo zemědělství.
+        </p>
+        <table className="table">
+          <tr>
+            <td>
+              <b>Kategorie</b>
+            </td>
+            <td>
+              <b>Výše náhrady</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Jehňata a kůzlata <br /> do 12 měsíců věku
+            </td>
+            <td>150 Kč/kg nebo 3500 Kč/ks</td>
+          </tr>
+          <tr>
+            <td>Bahnice a kozy</td>
+            <td>200 Kč/kg nebo 6000 Kč/ks</td>
+          </tr>
+          <tr>
+            <td>
+              Plemenný beran nebo kozel
+              <br /> „v odchovu“
+            </td>
+
+            <td>300 Kč/kg nebo 10 000 Kč/ks</td>
+          </tr>
+          <tr>
+            <td>Plemenný beran nebo kozel</td>
+            <td>15 000 Kč</td>
+          </tr>
+          <tr>
+            <td>
+              Ovce s mléčnou produkcí <br /> (prokazatelně dojené ovce)
+            </td>
+            <td>19 680 Kč</td>
+          </tr>
+          <tr>
+            <td>
+              Užitkové tele do 10 měsíců věku <br /> - býček
+            </td>
+            <td>24 000 Kč</td>
+          </tr>
+          <tr>
+            <td>
+              Užitkové tele do 10 měsíců věku <br /> - jalovice
+            </td>
+            <td>15 000 Kč</td>
+          </tr>
+        </table>
+        <p>
+          Vždy však záleží na konkrétním posouzení krajského úřadu. V případě,
+          že vzniklá škoda je vyšší, musí žadatel tuto skutečnost prokázat
+          odborným posudkem.
+        </p>
+        <p>
+          V případě, že nejsou o vzniku škody pochybnosti, krajský úřad má
+          povinnost škodu proplatit <b> do 4 měsíců od obdržení žádosti</b>.
+          Není-li škoda nebo její výše prokázána, úřad náhradu škody nezaplatí.
+          V případě, že krajský úřad nepostupuje dle žadatele v souladu se
+          zákonem, může se poškozený domáhat přiznání náhrady škody podle tohoto
+          zákona u soudu, a to nejpozději do 1 roku ode dne, kdy příslušný orgán
+          žádost poškozeného o poskytnutí náhrady škody obdržel.
+        </p>
+        <h4>Ohlašte zásah vyšší moci na SZIF</h4>
+        <p>
+          Aby poškozený chovatel nepřišel v důsledku poklesu počtu chovaných
+          zvířat o dotace vyplácené Státním zemědělským intervenčním fondem
+          (SZIF), je třeba úhyn zvířat v důsledku přírodních okolností
+          nezaviněných chovatelem ohlásit pomocí{" "}
+          <a href="https://www.selmy.cz/data/images/ovce/Ohlaseni_vyssi_moci_-_vyjimecne_okolnosti.pdf">
+            formuláře vyšší moci
+          </a>
+          na SZIF.
+        </p>
+      </Article>
     </Section>
     <Section header="O projektu">
       <Article header="">
