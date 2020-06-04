@@ -5,6 +5,7 @@ import Article from "../components/Article";
 import Box from "../components/Box";
 import BoxWrapper from "../components/BoxWrapper";
 import Header from "../components/Header";
+import Button from "../components/Button";
 import { Row, Col } from "react-bootstrap";
 
 export default () => (
@@ -29,18 +30,21 @@ export default () => (
             Elektrický ohradník je jedním z nejoblíbenějších a nejúčinnějších
             ochranných opatření proti velkým šelmám.
           </p>
+          <Button href="/mobilni-elektricky-ohradnik">Vice</Button>
         </Box>
         <Box header="PASTEVECKÝ PES" img="/static/images/pastevecky_pes.jpg">
           <p>
             Pastevečtí psi jsou časem prověření strážci stád a v oblastech s
             výskytem vlků se stále využívají.
           </p>
+          <Button href="/pastevecky-pes">Vice</Button>
         </Box>
         <Box header="PEVNÝ OHRADNÍK" img="/static/images/pevny_ohradnik.jpg">
           <p>
             Pevné ohrady se běžně používají k vymezení pastvin, kde jsou zvířata
             po většinu pastevní sezóny.
           </p>
+          <Button href="/pevny-ohradnik">Vice</Button>
         </Box>
       </BoxWrapper>
     </Section>
@@ -220,6 +224,5 @@ export default () => (
         </Col>
       </Row>
     </Section>
-    
   </>
 );
