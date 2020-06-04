@@ -4,6 +4,7 @@ import Section from "../components/Section";
 import Article from "../components/Article";
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 export default () => (
   <>
@@ -115,5 +116,6 @@ export default () => (
         ]}
       />
     </Section>
+    <Footer />
   </>
 );

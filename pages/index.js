@@ -5,6 +5,7 @@ import Article from "../components/Article";
 import Box from "../components/Box";
 import BoxWrapper from "../components/BoxWrapper";
 import Header from "../components/Header";
+import Footer from "../components/Footer";
 import Button from "../components/Button";
 import { Row, Col } from "react-bootstrap";
 
@@ -359,7 +360,7 @@ export default () => (
           <a href="https://www.selmy.cz/data/images/ovce/Ohlaseni_vyssi_moci_-_vyjimecne_okolnosti.pdf">
             formuláře vyšší moci
           </a>
-           na SZIF.
+          na SZIF.
         </p>
       </Article>
     </Section>
@@ -435,5 +436,6 @@ export default () => (
         </Col>
       </Row>
     </Section>
+    <Footer />
   </>
 );

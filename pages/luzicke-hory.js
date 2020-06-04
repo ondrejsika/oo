@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 export default () => (
   <>
@@ -105,5 +106,6 @@ export default () => (
         ]}
       />
     </Section>
+    <Footer />
   </>
 );

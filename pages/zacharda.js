@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 export default () => (
   <>
@@ -79,7 +80,9 @@ export default () => (
         zabezpečují a jsou s námi ochotni o problematice diskutovat. Zatím jsme
         se v Krušných horách nesetkali s žádným „vlčím“ odpůrcem.
       </p>
-<p><i>Štěpánka Kadlecová</i></p>
+      <p>
+        <i>Štěpánka Kadlecová</i>
+      </p>
       <Gallery
         images={[
           "/static/images/Z1.jpg",
@@ -88,5 +91,6 @@ export default () => (
         ]}
       />
     </Section>
+    <Footer />
   </>
 );
