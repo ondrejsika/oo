@@ -11,6 +11,9 @@ const H1 = styled.h1`
   font-size: 3em;
   text-transform: uppercase;
   background-color: grey;
+  @media (max-width: 768px) {
+    font-size: 1.6em;
+  }
 `;
 const TextBackground = styled.span`
   background-color: grey;
@@ -23,6 +26,9 @@ const BackgroundImg = styled.div`
   background-size: cover;
   padding: 50px;
   /* height: 200px; */
+  @media (max-width: 768px) {
+    padding: 10px 0;
+  }
 `;
 export default (props) => (
   <>
