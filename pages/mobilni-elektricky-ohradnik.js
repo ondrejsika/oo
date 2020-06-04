@@ -5,9 +5,13 @@ import Article from "../components/Article";
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import Head from "next/head";
 
 export default () => (
   <>
+    <Head>
+      <title>MOBILNÍ ELEKTRICKÝ OHRADNÍK | Ochrana Ovcí</title>
+    </Head>
     <Navbar />
     <Header />
     <Section header="MOBILNÍ ELEKTRICKÝ OHRADNÍK">

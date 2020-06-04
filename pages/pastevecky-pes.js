@@ -5,12 +5,16 @@ import Article from "../components/Article";
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import Head from "next/head";
 
 export default () => (
   <>
+    <Head>
+      <title>Pastevecký pes | Ochrana Ovcí</title>
+    </Head>
     <Navbar />
     <Header />
-    <Section header="Pastevecky pes" className="row">
+    <Section header="Pastevecký pes" className="row">
       <p>
         Pastevečtí psi jsou časem prověření strážci stád a v oblastech s
         výskytem vlků se stále využívají.

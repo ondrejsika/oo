@@ -4,9 +4,13 @@ import Section from "../components/Section";
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import Head from "next/head";
 
 export default () => (
   <>
+    <Head>
+      <title>Horský statek Abertamy - Farma Zvířat | Ochrana Ovcí</title>
+    </Head>
     <Navbar />
     <Header />
     <Section header="Horský statek Abertamy - Farma Zvířat">

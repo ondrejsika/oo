@@ -8,9 +8,13 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Button from "../components/Button";
 import { Row, Col } from "react-bootstrap";
+import Head from "next/head";
 
 export default () => (
   <>
+    <Head>
+      <title>Ochrana Ovcí</title>
+    </Head>
     <Navbar />
     <Header />
     <Section id="jak-si-chranit-sva-stáda" header="Jak si chránit svá stáda?">

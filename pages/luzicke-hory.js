@@ -4,9 +4,13 @@ import Section from "../components/Section";
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import Head from "next/head";
 
 export default () => (
   <>
+    <Head>
+      <title>Lužické hory | Ochrana Ovcí</title>
+    </Head>
     <Navbar />
     <Header />
     <Section header="Lužické hory: Fenka kangala Máša už dva roky stráží sedmdesátihlavé ovčí stádo">
@@ -95,10 +99,10 @@ export default () => (
         chovatelů kangalů, abych mohla nechat Mášu připustit ke krytí a odchovat
         tak i štěňata. Nedávno mi lidé z Hnutí DUHA zapůjčili i fotopast, kterou
         jsme společně umístili na ohradník, kam zavírám ovce a noc.
-
-
       </p>
-      <p><i>Miroslav Kutal, Kristýna Fridrichová</i></p>
+      <p>
+        <i>Miroslav Kutal, Kristýna Fridrichová</i>
+      </p>
       <Gallery
         images={[
           "/static/images/LH1.jpg",
