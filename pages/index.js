@@ -195,7 +195,7 @@ export default () => (
         </p>
       </Article>
       <Article header="Jak postupovat v případě napadení stáda?">
-        <h4>Kontaktujte orgán ochrany přírody a krajiny</h4>
+        <h4>1. Kontaktujte orgán ochrany přírody a krajiny</h4>
         <p>
           Je v zájmu poškozeného ohlásit událost co nejdříve, nejpozději však do
           48 hodin, místně příslušnému orgánu ochrany přírody, aby došlo co
@@ -209,7 +209,7 @@ export default () => (
           </a>
           .
         </p>
-        <h4>Zajistěte pobytové znaky šelmy</h4>
+        <h4>2. Zajistěte pobytové znaky šelmy</h4>
         <ul>
           <li>
             Než dorazí pracovník příslušného orgánu ochrany přírody, je vhodné
@@ -232,7 +232,7 @@ export default () => (
             <a href="tel:+420728832889">728 832 889</a> (M. Kutal).
           </li>
         </ul>
-        <h4>Kontaktujte veterináře</h4>
+        <h4>3. Kontaktujte veterináře</h4>
         <p>
           K podání žádosti o náhradu škody je třeba také potvrzení veterinárního
           lékaře o příčině úhynu zvířete. Není nezbytně nutné, aby veterinární
@@ -240,7 +240,7 @@ export default () => (
           fotodokumentace a/nebo protokolu o šetření, který provedl orgán
           ochrany přírody.{" "}
         </p>
-        <h4>Podejte žádost o náhradu škody</h4>
+        <h4>4. Podejte žádost o náhradu škody</h4>
         <p>
           Žádost o náhradu škody se podává ke <b>krajskému úřadu</b>. Tu je
           třeba podat do <b>10 dnů od dne, kdy se poškozený o škodě dozvěděl</b>
@@ -267,7 +267,7 @@ export default () => (
             žadatele)
           </li>
         </ul>
-        <p>K žádosti dále přiložte:</p>
+        <p>5. K žádosti dále přiložte:</p>
         <li>potvrzení veterinárního lékaře o příčině úhynu zvířete</li>
         <li>
           doklad, že jste vlastníkem zvířat (výpis z evidence a/nebo čestné
@@ -347,7 +347,7 @@ export default () => (
           zákona u soudu, a to nejpozději do 1 roku ode dne, kdy příslušný orgán
           žádost poškozeného o poskytnutí náhrady škody obdržel.
         </p>
-        <h4>Ohlašte zásah vyšší moci na SZIF</h4>
+        <h4>6. Ohlašte zásah vyšší moci na SZIF</h4>
         <p>
           Aby poškozený chovatel nepřišel v důsledku poklesu počtu chovaných
           zvířat o dotace vyplácené Státním zemědělským intervenčním fondem
@@ -356,7 +356,7 @@ export default () => (
           <a href="https://www.selmy.cz/data/images/ovce/Ohlaseni_vyssi_moci_-_vyjimecne_okolnosti.pdf">
             formuláře vyšší moci
           </a>
-          na SZIF.
+           na SZIF.
         </p>
       </Article>
     </Section>
@@ -405,8 +405,7 @@ export default () => (
           <p>
             E-mail: <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>
             <br />
-            Tel.
-            <a href="tel:+420776361735">776 361 735</a>
+            Tel. <a href="tel:+420776361735">776 361 735</a>
           </p>
         </Col>
         <Col md={4}>
@@ -428,7 +427,7 @@ export default () => (
             realizací preventivních opatření
           </p>
           <p>
-            Tel.<a href="tel:+420776642866">776 642 866</a>
+            Tel. <a href="tel:+420776642866">776 642 866</a>
           </p>
         </Col>
       </Row>
