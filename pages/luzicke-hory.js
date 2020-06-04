@@ -2,10 +2,12 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Gallery from "../components/Gallery";
+import Header from "../components/Header";
 
 export default () => (
   <>
     <Navbar />
+    <Header />
     <Section header="Lužické hory: Fenka kangala Máša už dva roky stráží sedmdesátihlavé ovčí stádo">
       <p>
         První důkazy o postupném pronikání vlků do severních Čech přinesly

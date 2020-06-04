@@ -3,10 +3,12 @@ import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Article from "../components/Article";
 import Gallery from "../components/Gallery";
+import Header from "../components/Header";
 
 export default () => (
   <>
     <Navbar />
+    <Header />
     <Section header="MOBILNÍ ELEKTRICKÝ OHRADNÍK">
       <Article>
         <p>

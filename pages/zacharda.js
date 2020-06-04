@@ -2,10 +2,12 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Gallery from "../components/Gallery";
+import Header from "../components/Header";
 
 export default () => (
   <>
     <Navbar />
+    <Header />
     <Section header="Horský statek Abertamy - Farma Zvířat">
       <p>
         Stabilní výskyt vlků v Krušných horách jsme zaznamenali v srpnu 2016.
