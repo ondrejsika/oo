@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 
-const classes = "btn btn-large btn-outline-primary";
+const classes = "btn btn-large btn-outline-secondary";
 
 export default (props) => {
   if (props.href.startsWith("http") || props.href.startsWith("mailto"))
