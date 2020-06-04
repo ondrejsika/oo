@@ -75,7 +75,7 @@ export default () => (
       <BoxWrapper>
         <Box
           header="FARMA ZVÍŘAT ABERTAMY"
-          img="/static/images/mobilni_elektricky_ohradnik.jpg"
+          img="/static/images/Z2.jpg"
           sizeMd={4}
         >
           <ul>
@@ -87,7 +87,7 @@ export default () => (
         </Box>
         <Box
           header="PASTEVECKÝ PES V LUŽICKÝCH HORÁCH"
-          img="/static/images/pastevecky_pes.jpg"
+          img="/static/images/LH1.jpg"
           sizeMd={4}
         >
           <ul>
@@ -99,7 +99,7 @@ export default () => (
         </Box>
         <Box
           header="OCHRANA OVCÍ POD TROSKAMI"
-          img="/static/images/pevny_ohradnik.jpg"
+          img="/static/images/T3.jpg"
           sizeMd={4}
         >
           <ul>
