@@ -112,7 +112,7 @@ export default () => (
       </BoxWrapper>
     </Section>
 
-    <Section id="co-delat-pri-napadeni" header="Podpora prevence">
+    <Section id="podpora-prevence" header="Podpora prevence">
       <Article header="">
         <p>
           V letošním roce poskytuje stát finanční podporu chovatelům na
@@ -191,7 +191,7 @@ export default () => (
         </p>
       </Article>
     </Section>
-    <Section id="podpora-prevence" header="Co dělat při napadení?">
+    <Section id="co-delat-pri-napadeni" header="Co dělat při napadení?">
       <Article header="">
         <p>
           V případě, že jsou hospodářská zvířata napadena vlkem, rysem nebo
