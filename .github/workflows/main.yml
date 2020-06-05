@@ -1,0 +1,17 @@
+name: Deploy
+on:
+  - push
+jobs:
+  build:
+    runs-on: ubuntu-16.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12"
+      - run: yarn
+      - run: yarn run static
+      - uses: actions/upload-artifact@v2
+        with:
+          name: ochranaovci.cz
+          path: out/
