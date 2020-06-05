@@ -36,7 +36,7 @@ export default () => (
             Elektrický ohradník je jedním z nejoblíbenějších a nejúčinnějších
             ochranných opatření proti velkým šelmám.
           </p>
-          <Button href="/mobilni-elektricky-ohradnik">Vice</Button>
+          <Button href="/mobilni-elektricky-ohradnik">Více</Button>
         </Box>
         <Box
           header="PASTEVECKÝ PES"
@@ -47,7 +47,7 @@ export default () => (
             Pastevečtí psi jsou časem prověření strážci stád a v oblastech s
             výskytem vlků se stále využívají.
           </p>
-          <Button href="/pastevecky-pes">Vice</Button>
+          <Button href="/pastevecky-pes">Více</Button>
         </Box>
         <Box
           header="PEVNÝ OHRADNÍK"
@@ -58,7 +58,7 @@ export default () => (
             Pevné ohrady se běžně používají k vymezení pastvin, kde jsou zvířata
             po většinu pastevní sezóny.
           </p>
-          <Button href="/pevny-ohradnik">Vice</Button>
+          <Button href="/pevny-ohradnik">Více</Button>
         </Box>
       </BoxWrapper>
     </Section>
@@ -83,7 +83,7 @@ export default () => (
             <li>Pastva na otevřených pastvinách</li>
             <li> Pastevčtí psi, bača, košáry ze síťových ohradníků</li>
           </ul>
-          <Button href="/zacharda">Vice</Button>
+          <Button href="/zacharda">Více</Button>
         </Box>
         <Box
           header="PASTEVECKÝ PES V LUŽICKÝCH HORÁCH"
@@ -95,7 +95,7 @@ export default () => (
             <li>Pastva v pevných ohradách</li>
             <li>Pastevčští psi, bača, košáry ze síťových ohradníků</li>
           </ul>
-          <Button href="/luzicke-hory">Vice</Button>
+          <Button href="/luzicke-hory">Více</Button>
         </Box>
         <Box
           header="OCHRANA OVCÍ POD TROSKAMI"
@@ -104,10 +104,10 @@ export default () => (
         >
           <ul>
             <li>120 ovcí</li>
-            <li>Pastva v mobilních lankových ohradníkách</li>
+            <li>Pastva v mobilních lankových ohradnících</li>
             <li>Pastevecký pes</li>
           </ul>
-          <Button href="/pod-troskami">Vice</Button>
+          <Button href="/pod-troskami">Více</Button>
         </Box>
       </BoxWrapper>
     </Section>

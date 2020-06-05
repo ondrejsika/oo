@@ -33,11 +33,13 @@ export default () => (
           </li>
         </ul>
         <p>nebo</p>
-        <li>
-          Mechanicky zapustit drátěný plot min. 50 cm pod zem nebo před ohradu
-          položit a pevně zakotvit pletivo navazující na plot v šířce min. 100
-          cm před ohradníkem .
-        </li>
+        <ul>
+          <li>
+            Mechanicky zapustit drátěný plot min. 50 cm pod zem nebo před ohradu
+            položit a pevně zakotvit pletivo navazující na plot v šířce min. 100
+            cm před ohradníkem.
+          </li>
+        </ul>
         <p>
           Alternativou k mechanické ochraně proti podhrabání je využití
           pasteveckých psů v pevné ohradě.{" "}

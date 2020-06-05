@@ -49,7 +49,7 @@ export default () => (
           ohrady.
         </p>
       </Article>
-      <Article header="Účinnost">
+      <Article header="Cena">
         <p>
           Elektrický ohradník vyžaduje středně vysokou vstupní investici; je
           třeba obstarat sítě nebo lanka se sloupky, zdroj impulzů a zkoušečku
