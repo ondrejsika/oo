@@ -136,9 +136,7 @@ export default () => (
         <table className="table">
           <tr>
             <td>Mobilní síťové ohradníky</td>
-            <td>
-              <b>Mobilní síťové ohradníky 60 Kč/bm</b>
-            </td>
+            <td>60 Kč/bm</td>
           </tr>
           <tr>
             <td>
