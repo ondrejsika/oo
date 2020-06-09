@@ -133,7 +133,66 @@ export default () => (
           opatření až do výše 150% NOO. Všechny ceny jsou uvedeny s DPH a včetně
           nákladů na instalaci.
         </p>
-
+        <table className="table">
+          <tr>
+            <td>Mobilní síťové ohradníky</td>
+            <td>
+              <b>Mobilní síťové ohradníky 60 Kč/bm</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Elektrický ohradník pevný (cena za běžný metr použitého vodiče
+              včetně izolátorů, sloupků nebo kůlů a brány)
+            </td>
+            <td>15 Kč/bm</td>
+          </tr>
+          <tr>
+            <td>
+              Elektrický ohradník mobilní (cena za běžný metr použitého vodiče
+              včetně izolátorů, sloupků a brány)
+            </td>
+            <td>12 Kč/bm</td>
+          </tr>
+          <tr>
+            <td>Zdroj impulzů včetně příslušenství</td>
+            <td>12 500 Kč </td>
+          </tr>
+          <tr>
+            <td>SMS alarm</td>
+            <td>11 800 Kč</td>
+          </tr>
+          <tr>
+            <td>Fotopast</td>
+            <td>6000 Kč</td>
+          </tr>
+          <tr>
+            <td>Pevná ohrada</td>
+            <td>320 Kč/bm/td></td>
+          </tr>
+          <tr>
+            <td>Košár (z pevných panelů, například ovčí plotové díly)</td>
+            <td>750 Kč/bm</td>
+          </tr>
+          <tr>
+            <td>Fladrový (zradidlový) ohradník</td>
+            <td>10 Kč/bm</td>
+          </tr>
+          <tr>
+            <td>
+              Pořízení psa pasteveckého/vycvičeného ovčáckého plemene k ochraně
+              hospodářských zvířat (vč. nákladů na výchovu do doby
+              upotřebitelnosti)
+            </td>
+            <td>65 000 Kč</td>
+          </tr>
+          <tr>
+            <td>
+              Příspěvek na veterinární péči o psa pasteveckého/ovčáckého plemene
+            </td>
+            <td>3000 Kč/rok</td>
+          </tr>
+        </table>
         <p>
           Lze však podpořit i další položky související s elektrickým
           ohradníkem, které nejsou v ceníku NOO uvedeny, např. baterie, solární
