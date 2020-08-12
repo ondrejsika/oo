@@ -82,7 +82,9 @@ export default () => (
         dovézt psa ze zahraničí z nepřerušené pracovní linie a dobře se
         připravit na příchod. Od té chvíle je to improvizace. Spolupráce s
         Hnutím DUHA byla výborná. Bohužel administrace dotace byla velmi
-        komplikovaná.” --MIROSLAV KUTAL
+        komplikovaná.”  <p>
+        <i>Miroslav Kutal</i>
+      </p>
       </p>
 
       <Gallery
