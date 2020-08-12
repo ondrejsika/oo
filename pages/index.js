@@ -64,7 +64,7 @@ export default () => (
     </Section>
     <Section
       id="priklady-z-praxe"
-      header="Příklady z praxe / Zkušenosti farmářů"
+      header="Příklady z praxe / zkušenosti farmářů"
     >
       <Article>
         <p>
@@ -248,7 +248,6 @@ export default () => (
           <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>.
         </h3>
       </Article>
-
     </Section>
 
     <Section id="co-delat-pri-napadeni" header="Co dělat při napadení?">
