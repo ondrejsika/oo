@@ -44,7 +44,7 @@ export default () => (
         nejnižší lanko by mělo být umístěno do 20 cm nad zemí a mezi ostatními
         lanky by neměly být mezery vyšší než 30 cm. Takové opatření zabrání
         tomu, aby vlk ohradník podhrabal nebo prolezl. Nejvyšší vodič, který
-        tvoří signální, dobře viditelná páska,- je umístěn ve výšce zhruba 130
+        tvoří signální, dobře viditelná páska je umístěn ve výšce zhruba 130
         cm.
       </p>
       <p>
