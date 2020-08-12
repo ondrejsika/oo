@@ -44,8 +44,7 @@ export default () => (
         nejnižší lanko by mělo být umístěno do 20 cm nad zemí a mezi ostatními
         lanky by neměly být mezery vyšší než 30 cm. Takové opatření zabrání
         tomu, aby vlk ohradník podhrabal nebo prolezl. Nejvyšší vodič, který
-        tvoří signální, dobře viditelná páska je umístěn ve výšce zhruba 130
-        cm.
+        tvoří signální, dobře viditelná páska je umístěn ve výšce zhruba 130 cm.
       </p>
       <p>
         Hlavním ochranným opatřením bylo však pořízení pasteveckých psů. Z
@@ -74,7 +73,7 @@ export default () => (
         praktické v raných fázích výchovy pasteveckých psů. Navíc byly vytvořeny
         cedulky, které budou upozorňovat procházející turisty na přítomnost
         pasteveckých psů. Oba psi jsou také sledovaní GPS obojky, což je
-        praktické při kontrole práce psa v odlehlých lokalitách.Ostrý test
+        praktické při kontrole práce psa v odlehlých lokalitách. Ostrý test
         fungování se stádem mají před sebou oba ochránci v této sezóně.
       </p>
       <p>
@@ -82,9 +81,10 @@ export default () => (
         dovézt psa ze zahraničí z nepřerušené pracovní linie a dobře se
         připravit na příchod. Od té chvíle je to improvizace. Spolupráce s
         Hnutím DUHA byla výborná. Bohužel administrace dotace byla velmi
-        komplikovaná.”  <p>
-        <i>Miroslav Kutal</i>
-      </p>
+        komplikovaná.”{" "}
+        <p>
+          <i>Miroslav Kutal</i>
+        </p>
       </p>
 
       <Gallery
