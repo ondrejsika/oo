@@ -52,8 +52,7 @@ export default () => (
           setkání s šelmami mohou stačit k odehnání vlků od stáda. Tito psi se
           nebojí s šelmami i bojovat, pokud je to nutné. Pes je dobrým hlídačem
           jen v případě, že byl od malička chován u stáda, ne mezi lidmi. Je
-          naprosto nezbytné, aby si navykl chovat se ke stádu, které má chránit
-          neagresivně a láskyplně. Je velmi důležité psy náležitě krmit.
+          naprosto nezbytné, aby si navykl chovat se ke stádu, které má chránit, neagresivně a láskyplně. Je velmi důležité psy náležitě krmit.
           Vyhladovělí psi nebudou jako ochránci účinní. Dokonce mohou způsobit
           velký problém, pokud začnou jako potravu lovit divoká nebo i
           hospodářská zvířata.
