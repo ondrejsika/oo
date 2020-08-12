@@ -240,6 +240,7 @@ export default () => (
           Více informací od AOPK ČR také na webu Návrat vlků.
         </Button>
       </Article>
+      <Article>
       <h6>
         <br>
           {" "}
@@ -250,6 +251,7 @@ export default () => (
           <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>.
         </br>
       </h6>
+      </Article>
     </Section>
 
     <Section id="co-delat-pri-napadeni" header="Co dělat při napadení?">
