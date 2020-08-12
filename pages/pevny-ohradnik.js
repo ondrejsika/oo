@@ -84,8 +84,7 @@ export default () => (
           <li>
             Pro funkčnost opatření je zásadní, aby vodiče byly stále pod
             napětím. Je potřeba pravidelně kontrolovat, zda se vodiče nedotýkají
-            vegetace a ohradník tak není uzemněný. Lze využít zkoušečky,
-            signální světla či SMS hlásiče.
+            vegetace a ohradník tak není uzemněný. Lze využít zkoušečky, signálního světla (signálních světel) či SMS hlásiče.
           </li>
           <li>
             Pokud nechcete nebo nemůžete ohradník pravidelně podsekávat, lze pod
