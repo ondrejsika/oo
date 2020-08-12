@@ -80,8 +80,8 @@ export default () => (
         >
           <ul>
             <li>3000 ovcí</li>
-            <li>Pastva na otevřených pastvinách</li>
-            <li> Pastevčtí psi, bača, košáry ze síťových ohradníků</li>
+            <li>pastva na otevřených pastvinách</li>
+            <li>pastevčtí psi, bača, košáry ze síťových ohradníků</li>
           </ul>
           <Button href="/zacharda">Více</Button>
         </Box>
@@ -92,8 +92,8 @@ export default () => (
         >
           <ul>
             <li>70 ovcí</li>
-            <li>Pastva v pevných ohradách</li>
-            <li>Pastevčští psi, bača, košáry ze síťových ohradníků</li>
+            <li>pastva v pevných ohradách</li>
+            <li>pastevčští psi, bača, košáry ze síťových ohradníků</li>
           </ul>
           <Button href="/luzicke-hory">Více</Button>
         </Box>
@@ -104,8 +104,8 @@ export default () => (
         >
           <ul>
             <li>120 ovcí</li>
-            <li>Pastva v mobilních lankových ohradnících</li>
-            <li>Pastevecký pes</li>
+            <li>pastva v mobilních lankových ohradnících</li>
+            <li>pastevecký pes</li>
           </ul>
           <Button href="/pod-troskami">Více</Button>
         </Box>
