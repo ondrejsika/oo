@@ -241,12 +241,12 @@ export default () => (
         </Button>
 
           <h6>
-            <br>Hnutí DUHA Olomouc má zkušenosti s přípravou a realizací
+            Hnutí DUHA Olomouc má zkušenosti s přípravou a realizací
             individuálních i společných projektů OPŽP zaměřených na preventivní
             opatření. Pokud máte zájem o konzultaci možných opatření nebo
             kompletní přípravu a administraci projektu, kontaktujte nás na{" "}
             <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>.
-            </br>
+           
           </h6>
 
       </Article>
