@@ -38,7 +38,7 @@ export default () => (
         kolem pastvin se se svým psem často pohybuji. Vypozorovala jsem, že
         pastevecký pes na mého psa začne reagovat až v bezprostřední blízkosti.
         Běžně procházející turista si pasteveckého psa ani nevšimne. Chovatel
-        Zacharda k ochraně svých stád používá psí plemeno Španělský mastin,
+        Zacharda k ochraně svých stád používá psí plemeno španělský mastin,
         které se liší od ostatních pasteveckých psů převážně tím, že se nechová
         agresivně k lidem.
       </p>
@@ -55,7 +55,7 @@ export default () => (
         pastevcem a ovčáckým psem nebo za elektrickými ohradníky s pasteveckými
         psy. V případě paniky jsou ovce schopné ohradník povalit a mít větší
         šanci na útěk (stejně tak z volné pastviny). Jak jsem již zmínila,
-        chovatel zvolil pasteveckého psa plemene Španělský mastin, pro kterého
+        chovatel zvolil pasteveckého psa plemene španělský mastin, pro kterého
         si osobně dojel do Španělska. Zdejší farmář Gregorio Fidalco praktikuje
         tisíciletou tradici pastevectví, tzv. „transhumance“, kdy cestuje s
         ovcemi z nížiny na horské pastviny a zpět. Ve Španělsku se se stády ovcí

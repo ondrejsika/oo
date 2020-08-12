@@ -194,7 +194,7 @@ export default () => (
         <p>
           Lze však podpořit i další položky související s elektrickým
           ohradníkem, které nejsou v ceníku NOO uvedeny, např. baterie, solární
-          panely, krabice na zdroj, či náklady související s výchovou
+          panely, krabice na zdroj či náklady související s výchovou
           pasteveckého psa (náklady na cestu pro psa do pracovního chovu do
           zahraničí, GPS obojek) a vzdělávací materiály (např. cedule
           upozorňující na přítomnost pasteveckých psů v ohradě).
@@ -248,7 +248,7 @@ export default () => (
           <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>.
         </h3>
       </Article>
-      
+
     </Section>
 
     <Section id="co-delat-pri-napadeni" header="Co dělat při napadení?">
