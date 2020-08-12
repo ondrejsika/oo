@@ -73,13 +73,12 @@ export default () => (
         teritoria, ztráty na ovcích jsou oproti minulému roku výrazně nižší.
         Velmi zajímavou poznámkou, kterou během naší schůzky chovatel podotknul,
         bylo, že má vyšší škody na ovcích od psů domácích a na pozemcích od
-        divokých prasat. Na statku dále žije asi 150jalovic.
+        divokých prasat. Na statku dále žije asi 150 jalovic.
       </p>
       <p>
         S chovatelem Zachardou vedeme velmi přátelské a slušné diskuze, při
         kterých hledáme řešení ke spokojenosti všech zúčastněných stran. Těším
-        se tak z naší společné spolupráce. Je také jediným chovatelem, který měl
-        zatím prokazatelné ztráty na ovcích. Spolu s dalšími pracovníky Hnutí
+        se tak z naší společné spolupráce. Spolu s dalšími pracovníky Hnutí
         DUHA jsme v kontaktu i s dalšími chovateli, jež si postupně svá stáda
         zabezpečují a jsou s námi ochotni o problematice diskutovat. Zatím jsme
         se v Krušných horách nesetkali s žádným „vlčím“ odpůrcem.
