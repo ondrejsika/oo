@@ -357,12 +357,15 @@ export default () => (
             žadatele)
           </li>
         </ul>
-        <p>5. K žádosti dále přiložte:</p>
-        <li>potvrzení veterinárního lékaře o příčině úhynu zvířete</li>
-        <li>
-          doklad, že jste vlastníkem zvířat (výpis z evidence a/nebo čestné
-          prohlášení)
-        </li>
+        <h4>5. K žádosti dále přiložte:</h4>
+        <ul>
+          <li>potvrzení veterinárního lékaře o příčině úhynu zvířete</li>
+          <li>
+            doklad, že jste vlastníkem zvířat (výpis z evidence a/nebo čestné
+            prohlášení)
+          </li>
+        </ul>
+
         <h4>Výše náhrady</h4>
         <p>
           Stanovení výše náhrady určuje vyhláška 360/2000 Sb., a jedná se o cenu
