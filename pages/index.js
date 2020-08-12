@@ -239,17 +239,17 @@ export default () => (
         >
           Více informací od AOPK ČR také na webu Návrat vlků.
         </Button>
-        <article>
-          <h6>
-           <br> Hnutí DUHA Olomouc má zkušenosti s přípravou a realizací
-            individuálních i společných projektů OPŽP zaměřených na preventivní
-            opatření. Pokud máte zájem o konzultaci možných opatření nebo
-            kompletní přípravu a administraci projektu, kontaktujte nás na{" "}
-            <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>.
-            </br>
-          </h6>
-        </article>
       </Article>
+      <h6>
+        <br>
+          {" "}
+          Hnutí DUHA Olomouc má zkušenosti s přípravou a realizací
+          individuálních i společných projektů OPŽP zaměřených na preventivní
+          opatření. Pokud máte zájem o konzultaci možných opatření nebo
+          kompletní přípravu a administraci projektu, kontaktujte nás na{" "}
+          <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>.
+        </br>
+      </h6>
     </Section>
 
     <Section id="co-delat-pri-napadeni" header="Co dělat při napadení?">
