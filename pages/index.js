@@ -130,8 +130,7 @@ export default () => (
           velkých šelem, a to ze 100 % způsobilých výdajů. AOPK ČR připravila
           ceník nákladů obvyklých opatření (NOO), který určuje maximální ceny
           vybraných opatření. V odůvodněných případech je možné podpořit
-          opatření až do výše 150% NOO. Všechny ceny jsou uvedeny s DPH a včetně
-          nákladů na instalaci.
+          opatření až do výše 150% NOO. Všechny ceny jsou uvedeny bez DPH a včetně nákladů na instalaci.
         </p>
         <table className="table">
           <tr>
@@ -240,13 +239,13 @@ export default () => (
           Více informací od AOPK ČR také na webu Návrat vlků.
         </Button>
 
-        <h3>
+        <table>
           Hnutí DUHA Olomouc má zkušenosti s přípravou a realizací
           individuálních i společných projektů OPŽP zaměřených na preventivní
           opatření. Pokud máte zájem o konzultaci možných opatření nebo
           kompletní přípravu a administraci projektu, kontaktujte nás na{" "}
           <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>.
-        </h3>
+        </table>
       </Article>
     </Section>
 
