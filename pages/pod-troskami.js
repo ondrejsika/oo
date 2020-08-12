@@ -21,13 +21,13 @@ export default () => (
         toho chová také dvě desítky krav.
       </p>
       <p>
-        Přestože Český rRáj stále nepatří do oblastí, kde vlci trvale žijí,
+        Přestože Český Ráj stále nepatří do oblastí, kde vlci trvale žijí,
         jejich návrat je možné v horizontu dalších let očekávat – ukázal to i
         případ vlčice, která byla začátkem roku 2020 sražena nedaleko Turnova.
         Považujeme za důležité, aby k realizaci preventivních opatření docházelo
         ještě před příchodem vlků. „Už jsem zažil, když se dostane pes do stáda
         a měli jsme dvanáct ovcí potrhaných. V případě vlků se obávám daleko
-        větších následků“ vysvětluje Zdeněk Krejčí, proč se rozhodl k lepšími
+        větších následků“ vysvětluje Zdeněk Krejčí, proč se rozhodl k lepšímu
         zabezpečení svého hospodářství v předstihu. Značný čas zabere příprava a
         schvalovací proces projektu, také výchova pasteveckých psů trvá
         minimálně rok než pes dospěje a je schopný samostatné práce. Zdeňkovi
@@ -42,7 +42,7 @@ export default () => (
         (používané ve stavebnictví jako výztuhy do betonu), na které připevňuje
         plastové izolátory a lanka. Aby byl ohradník účinný před útoky vlků,
         nejnižší lanko by mělo být umístěno do 20 cm nad zemí a mezi ostatními
-        lanky by neměly být mezery vyšší než 30 cm. Takové opatření zabrání
+        lanky by neměly být mezery větší než 30 cm. Takové opatření zabrání
         tomu, aby vlk ohradník podhrabal nebo prolezl. Nejvyšší vodič, který
         tvoří signální, dobře viditelná páska je umístěn ve výšce zhruba 130 cm.
       </p>
