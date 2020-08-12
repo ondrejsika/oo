@@ -166,7 +166,7 @@ export default () => (
           </tr>
           <tr>
             <td>Pevná ohrada</td>
-            <td>320 Kč/bm/td></td>
+            <td>320 Kč/bm </td>
           </tr>
           <tr>
             <td>Košár (z pevných panelů, například ovčí plotové díly)</td>
@@ -239,7 +239,7 @@ export default () => (
         >
           Více informací od AOPK ČR také na webu Návrat vlků.
         </Button>
-        <table className="table"></table>
+
         <h3>
           Hnutí DUHA Olomouc má zkušenosti s přípravou a realizací
           individuálních i společných projektů OPŽP zaměřených na preventivní
@@ -247,10 +247,9 @@ export default () => (
           kompletní přípravu a administraci projektu, kontaktujte nás na{" "}
           <a href="mailto:info@ochranaovci.cz">info@ochranaovci.cz</a>.
         </h3>
-        </table>
-
       </Article>
     </Section>
+
     <Section id="co-delat-pri-napadeni" header="Co dělat při napadení?">
       <Article header="">
         <p>
