@@ -454,6 +454,154 @@ export default () => (
         </p>
       </Article>
     </Section>
+    <Section id="mapy-utoku" header="Mapy útoků">
+      <Article header="">
+        <h6>
+          Množství škod na hospodářských zvířatech se zvyšuje s tím, jak se
+          zvětšuje areál rozšíření vlků. Jejich počet v jednotlivých oblastech
+          primárně neovlivňuje množství vlků žijících v dané oblasti, ale
+          především úroveň zabezpečení hospodářských zvířat. Například v okrese
+          Náchod (včetně CHKO Broumovsko) v letech 2016-2018 škody klesají,
+          přestože se zvyšuje počet smeček v oblasti. Nejvyšší škody v roce 2018
+          vznikly v okrese Litoměřice, kde vlci zabili 145 ovcí, smečka ani pár
+          však v oblasti nebyly potvrzeny.
+        </h6>
+        <p>
+          Následující přehled je sestaven na základě dat, které evidují krajské
+          úřady a Agentura ochrany přírody a krajiny ČR a správy národních
+          parků, ne všechny případy škod však poškození nárokovali k proplacení
+          u krajských úřadů. Data o počtu chovaných zvířat pocházejí od
+          Ministerstva zemědělství. Pokud vás zajímají detailní informace o
+          škodách na úrovni katastrů, podrobnosti najdete na stránkách
+          <a href="www.mapa.selmy.cz">www.mapa.selmy.cz</a>, spolu s informacemi
+          o potvrzených vlčích teritoriích.
+        </p>
+        <h4>Počty zabitých zvířat</h4>
+        <p>
+          Vlky nejčastěji napadaná domácí zvířata jsou ovce, mezi lety 2016-2018
+          tvořil jejich podíl na zabitých domácích zvířatech 90-99 %. Kozy byly
+          zabity v 0-5,5 % a telata v 1-5 % případů. Přehled udává následující
+          tabulka:
+        </p>
+        <table className="table">
+          <tr>
+            <td>
+              <b>
+                Druh zabitých <br /> domácích zvířat
+                <br />
+              </b>
+            </td>
+            <td>
+              <b>Ovce</b>
+            </td>
+            <td>
+              <b>Kozy</b>
+            </td>
+            <td>
+              <b>Telata</b>
+            </td>
+          </tr>
+          <tr>
+            <td>2016</td>
+            <td>223</td>
+            <td>9</td>
+            <td>8</td>
+          </tr>
+          <tr>
+            <td>2017</td>
+            <td>223</td>
+            <td>0</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>2018</td>
+            <td>376</td>
+            <td>23</td>
+            <td>20</td>
+          </tr>
+        </table>
+        <h4>Množství zabitých ovcí v jednotlivých okresech</h4>
+        <p>
+          V posledních 3 letech (2016-2018) vlci na ovce útočili celkem v 19
+          okresech ČR, pravidelně (ve všech 3 letech) útočili v 5 okresech
+          (Česká Lípa, Děčín, Liberec, Náchod, Trutnov) - v nich bylo nahlášeno
+          50 % všech zabitých ovcí.{" "}
+        </p>
+        <p>
+          Ve většině okresů škody od vlků tvořily desetiny nebo setiny procent z
+          celkového množství chovaných ovcí, jak ukazují následující přehledové
+          mapy. Více než 1 % z chovaných ovcí bylo vlky zabito v okrese Náchod -
+          1,15 % a 1,03% v letech 2016 a 2017 a v roce 2018 v okrese Litoměřice
+          (2,68 %). V celé ČR se v letech 2016-2018 chovalo 280-286 tisíc ovcí,
+          na úrovni ČR tedy vlci zabili 0,08 - 0,14 % z celkového množství
+          chovaných ovcí.
+        </p>
+
+        <Box
+          header="Poměr škod k počtu útoků"
+          img="/static/images/mapa_utoku_1.jpg"
+          sizeMd={4}
+        ></Box>
+        <Box
+          header="Poměr škod k počtu útoků"
+          img="/static/images/mapa_utoku_2.jpg"
+          sizeMd={4}
+        ></Box>
+        <Box
+          header="Poměr škod k počtu útoků"
+          img="/static/images/mapa_utoku_3.jpg"
+          sizeMd={4}
+        ></Box>
+        <p>
+          I když jsou celkové škody způsobené vlky na zabitých zvířatech malé,
+          pro jednotlivé zemědělce jsou škody významné a pouhé finanční
+          kompenzace nejsou ideálním řešením. Proto doporučujeme zejména v
+          oblastech, kde dochází opakovaně ke škodám, realizovat vhodná
+          preventivní opatření. Více informací najdete v sekci{" "}
+          <a href="http://www.ochranaovci.cz/#jak-si-chranit-sva-stáda">
+            Jak si chránit svá stáda
+          </a>{" "}
+          a{" "}
+          <a href="http://www.ochranaovci.cz/#podpora-prevence">
+            Podpora prevence.
+          </a>
+        </p>
+        <h4>
+          Dlouhodobý vývoj množství škod způsobených vlky na hospodářských
+          zvířatech
+        </h4>
+        <p>
+          Vlci začali útočit častěji na hospodářská zvířata od roku 2016, kdy se
+          rozšíření vlků začalo výrazněji zvětšovat v souvislosti s postupnou
+          expanzí středoevropské nížinné populace. Od roku 2018 se vlci začínají
+          častěji objevovat také v karpatských pohořích na
+          česko-slovensko-polském pomezí.{" "}
+        </p>
+        <Box
+          header="Poměr škod k počtu útoků"
+          img="/static/images/graf1.jpg"
+          sizeMd={4}
+        ></Box>
+        <Box
+          header="Poměr škod k počtu útoků"
+          img="/static/images/graf2.jpg"
+          sizeMd={4}
+        ></Box>
+        <Box
+          header="Poměr škod k počtu útoků"
+          img="/static/images/graf3.jpg"
+          sizeMd={4}
+        ></Box>
+        <p>
+          <i>
+            Vývoj počtu hospodářských zvířat zabitých vlky (A), útoků (B) a
+            vyplacených kompenzacích za škody (C, v mil. Kč). Nárůst vyplacených
+            kompenzací v posledním roce je dán z velké části i vyššími
+            jednotkovými cenami, které stát za zabitá zvířata vyplácí.
+          </i>
+        </p>
+      </Article>
+    </Section>
     <Section id="o-projektu" header="O projektu">
       <Article header="">
         <p>
@@ -487,6 +635,7 @@ export default () => (
           Tento web byl spolufinancován Evropskou unií – Fondem soudržnosti v
           rámci Operačního programu Životní prostředí a Nadací EuroNatur.
         </p>
+
       </Article>
     </Section>
     <Section id="kontakt" header="Kontakt">
