@@ -578,17 +578,17 @@ export default () => (
           česko-slovensko-polském pomezí.{" "}
         </p>
         <Box
-          header="Poměr škod k počtu útoků"
+          header="2018"
           img="/static/images/graf1.jpg"
           sizeMd={4}
         ></Box>
         <Box
-          header="Poměr škod k počtu útoků"
+          header="2017"
           img="/static/images/graf2.jpg"
           sizeMd={4}
         ></Box>
         <Box
-          header="Poměr škod k počtu útoků"
+          header="2016"
           img="/static/images/graf3.jpg"
           sizeMd={4}
         ></Box>
