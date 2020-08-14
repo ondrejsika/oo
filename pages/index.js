@@ -540,17 +540,17 @@ export default () => (
         <Box
           header="Poměr škod k počtu útoků"
           img="/static/images/mapa_utoku_1.jpg"
-          sizeMd={4}
+          sizeMd={12}
         ></Box>
         <Box
           header="Poměr škod k počtu útoků"
           img="/static/images/mapa_utoku_2.jpg"
-          sizeMd={4}
+          sizeMd={12}
         ></Box>
         <Box
           header="Poměr škod k počtu útoků"
           img="/static/images/mapa_utoku_3.jpg"
-          sizeMd={4}
+          sizeMd={12}
         ></Box>
         <p>
           I když jsou celkové škody způsobené vlky na zabitých zvířatech malé,
@@ -580,17 +580,17 @@ export default () => (
         <Box
           header="2018"
           img="/static/images/graf1.jpg"
-          sizeMd={4}
+          sizeMd={12}
         ></Box>
         <Box
           header="2017"
           img="/static/images/graf2.jpg"
-          sizeMd={4}
+          sizeMd={12}
         ></Box>
         <Box
           header="2016"
           img="/static/images/graf3.jpg"
-          sizeMd={4}
+          sizeMd={12}
         ></Box>
         <p>
           <i>
