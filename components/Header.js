@@ -34,7 +34,7 @@ export default (props) => (
   <>
     <BackgroundImg>
       {/* <Background> */}
-      <Container>
+      <Container style={{ marginTop: "60px" }}>
         <Link href="/">
           <a style={{ textDecoration: "none" }}>
             <H1>
