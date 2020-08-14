@@ -22,6 +22,9 @@ export default () => (
           <Nav.Link href="/#podpora-prevence">
             <b>Podpora prevence</b>
           </Nav.Link>
+          <Nav.Link href="/#mapy-utoku">
+            <b>Mapy útoků</b>
+          </Nav.Link>
           <Nav.Link href="/#o-projektu">
             <b>O webu</b>
           </Nav.Link>
