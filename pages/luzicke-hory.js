@@ -51,11 +51,17 @@ export default () => (
         bezprostřední blízkosti zdejších pastvin, hospodářství hlídané
         anatolským pasteveckým psem slovenského původu zatím neutrpělo žádnou
         ztrátu. Několikrát, nejspíš právě kvůli přítomnosti vlků, spustila Máša
-        v noci hlasitý povyk a nahnala stádo od lesa blíž k vesnici. Majitelka
-        věří, že bez tohoto pasteveckého psa by o další ovce už přišla a Mášu si
-        velmi oblíbila. Do budoucna by chtěla odchovat štěňata, aby jedno z nich
-        pomohlo s hlídáním stáda a ostatní mohla nabídnout dalším chovatelům pro
-        snazší soužití s vlky v kraji.
+        v noci hlasitý povyk a nahnala stádo od lesa blíž k vesnici. Na jaře
+        roku 2020 pracovníci Hnutí DUHA instalovali společně s chovatelkou dvě
+        fotopasti přímo na její ohradník. Už během jednoho týdne se podařilo na
+        fotopast zachytit vlka, který obcházel pastvinu. Na videu je slyšet i
+        urputný Mášin štěkot, který vzbudil majitelku. Máša byla podle jejích
+        slov velmi dlouho neklidná, strkala do ní a chtěla, aby šla pryč. Ovce v
+        tu dobu postávaly na kraji ohradníku u domů, co nejdál od místa, kde se
+        vlk pohyboval. Majitelka věří, že bez tohoto pasteveckého psa by o další
+        ovce už přišla a Mášu si velmi oblíbila. Do budoucna by chtěla odchovat
+        štěňata, aby jedno z nich pomohlo s hlídáním stáda a ostatní mohla
+        nabídnout dalším chovatelům pro snazší soužití s vlky v kraji.
       </p>
       <p>
         Na závěr jsme poprosili chovatelku o zodpovězení několika otázek,
