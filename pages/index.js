@@ -578,7 +578,7 @@ export default () => (
           česko-slovensko-polském pomezí.{" "}
         </p>
         <Box
-          header="Útoku na hospodářská zvířata"
+          header="Útoky na hospodářská zvířata"
           img="/static/images/graf1.jpg"
           sizeMd={12}
         ></Box>
