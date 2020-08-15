@@ -450,7 +450,7 @@ export default () => (
           <a href="https://www.selmy.cz/data/images/ovce/Ohlaseni_vyssi_moci_-_vyjimecne_okolnosti.pdf" target="_blank">
              formuláře vyšší moci
           </a>
-            <br/> na SZIF. <br/> 
+            <br/> na SZIF. <br/>
         </p>
       </Article>
     </Section>
@@ -578,7 +578,7 @@ export default () => (
           česko-slovensko-polském pomezí.{" "}
         </p>
         <Box
-          header="Útoku na hospodářská zvítata"
+          header="Útoku na hospodářská zvířata"
           img="/static/images/graf1.jpg"
           sizeMd={12}
         ></Box>
