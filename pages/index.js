@@ -473,7 +473,7 @@ export default () => (
           u krajských úřadů. Data o počtu chovaných zvířat pocházejí od
           Ministerstva zemědělství. Pokud vás zajímají detailní informace o
           škodách na úrovni katastrů, podrobnosti najdete na stránkách
-          <a href="www.mapa.selmy.cz">www.mapa.selmy.cz</a>, spolu s informacemi
+          <a href="www.mapa.selmy.cz"> www.mapa.selmy.cz</a>, spolu s informacemi
           o potvrzených vlčích teritoriích.
         </p>
         <h4>Počty zabitých zvířat</h4>
