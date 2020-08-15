@@ -538,17 +538,17 @@ export default () => (
         </p>
 
         <Box
-          header="Poměr škod k počtu útoků"
+          header="Poměr škod k počtu chovaných zvířat"
           img="/static/images/mapa_utoku_1.jpg"
           sizeMd={12}
         ></Box>
         <Box
-          header="Poměr škod k počtu útoků"
+          header="Poměr škod k počtu chovaných zvířat"
           img="/static/images/mapa_utoku_2.jpg"
           sizeMd={12}
         ></Box>
         <Box
-          header="Poměr škod k počtu útoků"
+          header="Poměr škod k počtu chovaných zvířat"
           img="/static/images/mapa_utoku_3.jpg"
           sizeMd={12}
         ></Box>
@@ -578,17 +578,17 @@ export default () => (
           česko-slovensko-polském pomezí.{" "}
         </p>
         <Box
-          header="2018"
+          header="Útoku na hospodářská zvítata"
           img="/static/images/graf1.jpg"
           sizeMd={12}
         ></Box>
         <Box
-          header="2017"
+          header="Zabitá hospodářská zvířata"
           img="/static/images/graf2.jpg"
           sizeMd={12}
         ></Box>
         <Box
-          header="2016"
+          header="Vyplacené náhrady za zabitá hospodářská zvířata (v mil. Kč)."
           img="/static/images/graf3.jpg"
           sizeMd={12}
         ></Box>
@@ -635,7 +635,6 @@ export default () => (
           Tento web byl spolufinancován Evropskou unií – Fondem soudržnosti v
           rámci Operačního programu Životní prostředí a Nadací EuroNatur.
         </p>
-
       </Article>
     </Section>
     <Section id="kontakt" header="Kontakt">
