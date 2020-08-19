@@ -447,10 +447,13 @@ export default () => (
           zvířat o dotace vyplácené Státním zemědělským intervenčním fondem
           (SZIF), je třeba úhyn zvířat v důsledku přírodních okolností
           nezaviněných chovatelem ohlásit pomoc{" "}
-          <a href="https://www.selmy.cz/data/images/ovce/Ohlaseni_vyssi_moci_-_vyjimecne_okolnosti.pdf" target="_blank">
-             formuláře vyšší moci
+          <a
+            href="https://www.selmy.cz/data/images/ovce/Ohlaseni_vyssi_moci_-_vyjimecne_okolnosti.pdf"
+            target="_blank"
+          >
+            formuláře vyšší moci
           </a>
-            <br/> na SZIF. <br/>
+          <br /> na SZIF. <br />
         </p>
       </Article>
     </Section>
@@ -473,8 +476,14 @@ export default () => (
           u krajských úřadů. Data o počtu chovaných zvířat pocházejí od
           Ministerstva zemědělství. Pokud vás zajímají detailní informace o
           škodách na úrovni katastrů, podrobnosti najdete na stránkách
-          <a href="http://www.mapa.selmy.cz/cs?layers=80,88,91,89,92" target="_blank"> www.mapa.selmy.cz</a>, spolu s informacemi
-          o potvrzených vlčích teritoriích.
+          <a
+            href="http://www.mapa.selmy.cz/cs?layers=80,88,91,89,92"
+            target="_blank"
+          >
+            {" "}
+            www.mapa.selmy.cz
+          </a>
+          , spolu s informacemi o potvrzených vlčích teritoriích.
         </p>
         <h4>Počty zabitých zvířat</h4>
         <p>

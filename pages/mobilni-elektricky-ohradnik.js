@@ -92,7 +92,7 @@ export default () => (
         <ul>
           <li>napětí alespoň 4500 V</li>
           <li>
-            ospodářská zvířata by měla mít uvnitř ohradníku dostatek bezpečného
+            Hospodářská zvířata by měla mít uvnitř ohradníku dostatek bezpečného
             prostoru (minimálně 2000 metrů čtverečních), aby se v případě pohybu
             šelem v blízkosti ohradníku nevyplašila a ohradník v panice
             neprotrhla
@@ -122,12 +122,3 @@ export default () => (
     <Footer />
   </>
 );
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-24094281-13"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-24094281-13');
-</script>
