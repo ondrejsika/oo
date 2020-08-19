@@ -12,7 +12,8 @@ import Head from "next/head";
 
 export default () => (
   <>
-    <Head><!-- Global site tag (gtag.js) - Google Analytics -->
+    <Head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-24094281-13"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -25,6 +26,7 @@ export default () => (
     </Head>
     <Navbar />
     <Header />
+
     <Section id="jak-si-chranit-sva-stáda" header="Jak si chránit svá stáda?">
       <Article>
         <p>
@@ -556,17 +558,17 @@ export default () => (
 
         <Box
           header="Poměr škod k počtu chovaných zvířat"
-          img="/static/images/mapa_utoku_1.jpg"
+          img="/static/images/Škody_okresy_2016.jpg"
           sizeMd={12}
         ></Box>
         <Box
           header="Poměr škod k počtu chovaných zvířat"
-          img="/static/images/mapa_utoku_2.jpg"
+          img="/static/images/Škody_okresy_2017.jpg"
           sizeMd={12}
         ></Box>
         <Box
           header="Poměr škod k počtu chovaných zvířat"
-          img="/static/images/mapa_utoku_3.jpg"
+          img="/static/images/Škody_okresy_2018.jpg"
           sizeMd={12}
         ></Box>
         <p>
@@ -595,20 +597,11 @@ export default () => (
           česko-slovensko-polském pomezí.{" "}
         </p>
         <Box
-          header="Útoky na hospodářská zvířata"
-          img="/static/images/graf1.jpg"
+          header=""
+          img="/static/images/2010-2018_1078.jpg"
           sizeMd={12}
         ></Box>
-        <Box
-          header="Zabitá hospodářská zvířata"
-          img="/static/images/graf2.jpg"
-          sizeMd={12}
-        ></Box>
-        <Box
-          header="Vyplacené náhrady za zabitá hospodářská zvířata (v mil. Kč)."
-          img="/static/images/graf3.jpg"
-          sizeMd={12}
-        ></Box>
+
         <p>
           <i>
             Vývoj počtu hospodářských zvířat zabitých vlky (A), útoků (B) a
