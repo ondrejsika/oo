@@ -63,6 +63,7 @@ export default () => (
         štěňata, aby jedno z nich pomohlo s hlídáním stáda a ostatní mohla
         nabídnout dalším chovatelům pro snazší soužití s vlky v kraji.
       </p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/NiVFrY2byO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <p>
         Na závěr jsme poprosili chovatelku o zodpovězení několika otázek,
         souvisejících s její motivací k pořízení pasteveckého psa a dosavadními
@@ -120,12 +121,4 @@ export default () => (
     <Footer />
   </>
 );
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-24094281-13"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-24094281-13');
-</script>
