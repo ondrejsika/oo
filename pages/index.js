@@ -83,7 +83,7 @@ export default () => (
           <ul>
             <li>3000 ovcí</li>
             <li>pastva na otevřených pastvinách</li>
-            <li>pastevčtí psi, bača, košáry ze síťových ohradníků</li>
+            <li>pastevečtí psi, bača, košáry ze síťových ohradníků</li>
           </ul>
           <Button href="/zacharda">Více</Button>
         </Box>
@@ -95,7 +95,7 @@ export default () => (
           <ul>
             <li>70 ovcí</li>
             <li>pastva v pevných ohradách</li>
-            <li>pastevčští psi, bača, košáry ze síťových ohradníků</li>
+            <li>pastevčetí psi, bača, košáry ze síťových ohradníků</li>
           </ul>
           <Button href="/luzicke-hory">Více</Button>
         </Box>
@@ -643,7 +643,7 @@ export default () => (
     <Section id="kontakt" header="Kontakt">
       <Row>
         <Col md={4}>
-          <h3>Alena Koutková</h3>
+          <h4>Alena Koutková</h4>
           <p>
             Příprava a administrace projektů OPŽP pro lepší zabezpečení stád.
           </p>
@@ -654,7 +654,7 @@ export default () => (
           </p>
         </Col>
         <Col md={4}>
-          <h3>Miroslav Kutal</h3>
+          <h4>Miroslav Kutal</h4>
           <p>Konzultace k preventivním opatřením a výskytu šelem</p>
           <p>
             E-mail:{" "}
@@ -666,7 +666,7 @@ export default () => (
           </p>
         </Col>
         <Col md={4}>
-          <h3>Lenka Štíhlová</h3>
+          <h4>Lenka Štíhlová</h>
           <p>
             Chovatelka koz a krav na Broumovsku se zkušenostmi s útokem vlků a
             realizací preventivních opatření

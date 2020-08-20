@@ -19,7 +19,7 @@ export default () => (
         Pastevečtí psi jsou časem prověření strážci stád a v oblastech s
         výskytem vlků se stále využívají.
       </p>
-      <Article header="Účinnost">
+      <Article header="Použití">
         <p>
           Pastevečtí psi jsou tradiční metodou ochrany stád od doby, kdy lidé
           začali chovat hospodářská zvířata. Na rozdíl od honáckých psů mají
