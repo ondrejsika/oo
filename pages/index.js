@@ -666,7 +666,7 @@ export default () => (
           </p>
         </Col>
         <Col md={4}>
-          <h4>Lenka Štíhlová</h>
+          <h4>Lenka Štíhlová</h4>
           <p>
             Chovatelka koz a krav na Broumovsku se zkušenostmi s útokem vlků a
             realizací preventivních opatření
