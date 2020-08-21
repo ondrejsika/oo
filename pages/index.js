@@ -643,7 +643,7 @@ export default () => (
     <Section id="kontakt" header="Kontakt">
       <Row>
         <Col md={4}>
-          <h4>Alena Koutková</h4>
+          <h6>Alena Koutková</h6>
           <p>
             Příprava a administrace projektů OPŽP pro lepší zabezpečení stád.
           </p>
@@ -654,7 +654,7 @@ export default () => (
           </p>
         </Col>
         <Col md={4}>
-          <h4>Miroslav Kutal</h4>
+          <h6>Miroslav Kutal</h6>
           <p>Konzultace k preventivním opatřením a výskytu šelem</p>
           <p>
             E-mail:{" "}
@@ -666,7 +666,7 @@ export default () => (
           </p>
         </Col>
         <Col md={4}>
-          <h4>Lenka Štíhlová</h4>
+          <h6>Lenka Štíhlová</h6>
           <p>
             Chovatelka koz a krav na Broumovsku se zkušenostmi s útokem vlků a
             realizací preventivních opatření
