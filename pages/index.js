@@ -551,17 +551,17 @@ export default () => (
 
         <Box
           header="Poměr škod k počtu chovaných zvířat"
-          img="/static/images/Škody_okresy_2016.jpg"
+          img="/static/images/skody_okresy_2016.jpg"
           sizeMd={12}
         ></Box>
         <Box
           header="Poměr škod k počtu chovaných zvířat"
-          img="/static/images/Škody_okresy_2017.jpg"
+          img="/static/images/skody_okresy_2017.jpg"
           sizeMd={12}
         ></Box>
         <Box
           header="Poměr škod k počtu chovaných zvířat"
-          img="/static/images/Škody_okresy_2018.jpg"
+          img="/static/images/skody_okresy_2018.jpg"
           sizeMd={12}
         ></Box>
         <p>
