@@ -639,6 +639,11 @@ export default () => (
           rámci Operačního programu Životní prostředí a Nadací EuroNatur.
         </p>
       </Article>
+      <Box
+          header=""
+          img="/static/images/Diskuze_s_chovateli_m.jpg"
+          sizeMd={12}
+        ></Box>
     </Section>
     <Section id="kontakt" header="Kontakt">
       <Row>
