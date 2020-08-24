@@ -76,23 +76,24 @@ export default () => (
       </Article>
       <Article header="Požadavky a doporučení při instalaci">
         <ul>
-          <li>Alespoň 5 vodičů.</li>
-          <li>Výška ohradníku 120-150 cm.</li>
-          <li>Nejnižší vodič 20-25 cm nad zemí.</li>
-          <li>Vzdálenost mezi vodiči 20-30 cm.</li>
-          <li>Napětí alespoň 4500 V.</li>
+          <li>alespoň 5 vodičů.</li>
+          <li>výška ohradníku 120-150 cm.</li>
+          <li>nejnižší vodič 20-25 cm nad zemí.</li>
+          <li>vzdálenost mezi vodiči 20-30 cm.</li>
+          <li>napětí alespoň 4500 V.</li>
           <li>
-            Pro funkčnost opatření je zásadní, aby vodiče byly stále pod
+            pro funkčnost opatření je zásadní, aby vodiče byly stále pod
             napětím. Je potřeba pravidelně kontrolovat, zda se vodiče nedotýkají
-            vegetace a ohradník tak není uzemněný. Lze využít zkoušečky, signálního světla (signálních světel) či SMS hlásiče.
+            vegetace a ohradník tak není uzemněný. Lze využít zkoušečky,
+            signálního světla (signálních světel) či SMS hlásiče.
           </li>
           <li>
-            Pokud nechcete nebo nemůžete ohradník pravidelně podsekávat, lze pod
+            pokud nechcete nebo nemůžete ohradník pravidelně podsekávat, lze pod
             nejnižším lankem bránícím šelmám podhrabání instalovat fólií bránící
             prorůstání trávy.
           </li>
           <li>
-            K podsekávání rozsáhlých ohrad je možné použít speciální sekačky na
+            k podsekávání rozsáhlých ohrad je možné použít speciální sekačky na
             traktor, které zvládnou podsekat i nejnižší vodič a objet kůl.
           </li>
         </ul>
@@ -108,4 +109,3 @@ export default () => (
     <Footer />
   </>
 );
-
