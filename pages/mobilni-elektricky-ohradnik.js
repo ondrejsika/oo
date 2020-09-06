@@ -66,48 +66,48 @@ export default () => (
       <Article header="Požadavky a doporučení při instalaci">
         <h4>Lankový ohradník</h4>
         <ul>
-          <li>alespoň 5 vodičů</li>
-          <li>výška ohradníku 120-150 cm</li>
-          <li>nejnižší vodič 20-25 cm nad zemí</li>
-          <li>vzdálenost mezi vodiči 20-30 cm</li>
+          <li>alespoň 5 vodičů; </li>
+          <li>výška ohradníku 120-150 cm; </li>
+          <li>nejnižší vodič 20-25 cm nad zemí; </li>
+          <li>vzdálenost mezi vodiči 20-30 cm; </li>
           <li>
             doporučujeme instalovat horní signální pásku bílé barvy alespoň 2 cm
             širokou. Tato páska nemusí být nutně pod napětím, ale zvyšuje
-            viditelnost pro predátory a další divoce žijící zvířata.
+            viditelnost pro predátory a další divoce žijící zvířata;
           </li>
         </ul>
         <h4>Síťový ohradník</h4>
         <ul>
           <li>
-            120 cm výšky nebo 90 cm s přídavnou vodivou páskou ve výšce 120 cm
+            120 cm výšky nebo 90 cm s přídavnou vodivou páskou ve výšce 120 cm;
           </li>
           <li>
             síťový ohradník musí být dostatečně napnutý, aby v kontaktu se zemí
             nebo vegetací nebyl druhý nejnižší vodorovný vodič, který je pod
             napětím. V členitém terénu je použití síťových ohradníků
-            komplikovanější při lomu terénu.
+            komplikovanější při lomu terénu;
           </li>
         </ul>
         <h4>Všechny typy</h4>
         <ul>
-          <li>napětí alespoň 4500 V</li>
+          <li>napětí alespoň 4500 V; </li>
           <li>
-            Hospodářská zvířata by měla mít uvnitř ohradníku dostatek bezpečného
+            hospodářská zvířata by měla mít uvnitř ohradníku dostatek bezpečného
             prostoru (minimálně 2000 metrů čtverečních), aby se v případě pohybu
             šelem v blízkosti ohradníku nevyplašila a ohradník v panice
-            neprotrhla
+            neprotrhla; 
           </li>
           <li>
             pro funkčnost opatření je zásadní, aby ohradník byl stále pod
             napětím. Je potřeba pravidelně kontrolovat, zda se vodiče nedotýkají
-            vegetace a ohradník tak není uzemněný. Lze využít zkoušečky, signálního světla (signálních světel) či SMS hlásiče.
+            vegetace a ohradník tak není uzemněný. Lze využít zkoušečky, signálního světla (signálních světel) či SMS hlásiče;
           </li>
           <li>
-            Během suchých období na písčitých půdách může být problém v tom, že
+            během suchých období na písčitých půdách může být problém v tom, že
             zvířata, která se dotýkají sítí/lanek nejsou uzemněná, a tudíž jimi
             neprojde elektrický výboj. Řešením je v ohradníku střídat vodiče ze
             zdroje (+) s vodiči napojenými na dobře uzemněnou zemnící tyč (-). K
-            výboji pak dojde, když se zvíře dotkne obou vodičů současně.
+            výboji pak dojde, když se zvíře dotkne obou vodičů současně;
           </li>
         </ul>
       </Article>
