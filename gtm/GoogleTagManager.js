@@ -1,10 +1,10 @@
 import React from "react";
 
-const GoogleTagManager = props => (
+const GoogleTagManager = (props) => (
   <>
     <script
       async
-      src={`https://www.googletagmanager.com/gtm.js?id=${props.gtm_id}`}
+      src={`https://www.googletagmanager.com/gtag/js?id=${props.gtm_id}`}
     />
     <script
       dangerouslySetInnerHTML={{
